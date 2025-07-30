@@ -1,0 +1,14 @@
+C:\Pavan Goud\c#\petcare\bin\Debug\net9.0\petcare.exe
+C:\Pavan Goud\c#\petcare\bin\Debug\net9.0\petcare.deps.json
+C:\Pavan Goud\c#\petcare\bin\Debug\net9.0\petcare.runtimeconfig.json
+C:\Pavan Goud\c#\petcare\bin\Debug\net9.0\petcare.dll
+C:\Pavan Goud\c#\petcare\bin\Debug\net9.0\petcare.pdb
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.AssemblyInfoInputs.cache
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.AssemblyInfo.cs
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.csproj.CoreCompileInputs.cache
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.dll
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\refint\petcare.dll
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.pdb
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\petcare.genruntimeconfig.cache
+C:\Pavan Goud\c#\petcare\obj\Debug\net9.0\ref\petcare.dll
